@@ -1,0 +1,7 @@
+This is Jason. The new branch I have created is called the project-one.
+
+To receive the branch, use "git fetch -all" and then "git branch" to checkout the branch in your local file.
+
+Don't forget to be in the branch before pushing.
+
+We will make a good project! Let's go!!!
